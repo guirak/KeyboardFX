@@ -4,6 +4,9 @@ import com.dlsc.keyboardfx.Keyboard.SpecialKey;
 import com.dlsc.keyboardfx.Keyboard.SpecialKey.Type;
 import com.dlsc.keyboardfx.skins.KeyboardViewSkin;
 
+import jakarta.xml.bind.JAXBContext;
+import jakarta.xml.bind.JAXBException;
+import jakarta.xml.bind.Unmarshaller;
 import org.apache.commons.lang3.StringUtils;
 import org.kordamp.ikonli.javafx.FontIcon;
 import org.kordamp.ikonli.materialdesign.MaterialDesign;
@@ -14,10 +17,6 @@ import java.util.Objects;
 import java.util.function.Consumer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Unmarshaller;
 
 import javafx.beans.Observable;
 import javafx.beans.property.BooleanProperty;
