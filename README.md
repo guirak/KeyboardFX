@@ -1,3 +1,8 @@
+[![](https://jitpack.io/v/guirak/KeyboardFX.svg)](https://jitpack.io/#guirak/KeyboardFX)
+[![GitHub last commit](https://img.shields.io/github/last-commit/guirak/KeyboardFX)](https://github.com/guirak/KeyboardFX/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/guirak/KeyboardFX)](https://github.com/guirak/KeyboardFX/issues)
+[![GitHub](https://img.shields.io/github/license/guirak/KeyboardFX)](LICENSE)
+
 # KeyboardFX
 
 An on-screen keyboard, especially useful for touch applications (mobile, tablet).
